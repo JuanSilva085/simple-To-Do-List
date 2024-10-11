@@ -1,0 +1,17 @@
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfo.cs
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.csproj.AssemblyReference.cache
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.exe
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.deps.json
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.runtimeconfig.json
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.dll
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.pdb
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.csproj.Up2Date
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.dll
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\obj\Debug\net8.0\refint\ToDoList.dll
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.pdb
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.genruntimeconfig.cache
+C:\Users\JuanU\source\repos\ToDoList\ToDoList\obj\Debug\net8.0\ref\ToDoList.dll
